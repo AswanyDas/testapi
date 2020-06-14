@@ -1,0 +1,112 @@
+{
+  "emailVerification": [
+    {
+      "id": 1,
+      "email": "abc@gmail.com",
+      "Response": 1
+    },
+    {
+      "id": 2,
+      "email": "rbc@gmail.com",
+      "Response": 0
+    }
+  ],
+  "emailVerificationRequestOTP": [
+    {
+      "id": 1,
+      "email": "abc@gmail.com",
+      "OTP": 45665,
+      "Response": 1
+    },
+    {
+      "id": 2,
+      "email": "abc@gmail.com",
+      "OTP": 32435,
+      "Response": 0
+    }
+  ],
+  "companyProfileSave": [
+    {
+      "id": 1,
+      "Desc": "CompanyProfilesave",
+      "Website": "Gmail.com",
+      "Type": 2,
+      "EmployeeCount": 7,
+      "Account_type": "both",
+      "profileUrl": "url",
+      "Tagline": "tagline",
+      "logo": "logo",
+      "coverpage": "coverpage",
+      "fb": "fb url",
+      "insta": "insta url",
+      "twiter": "url",
+      "linkedln": "linkedin"
+    },
+    {
+      "id": 2,
+      "Desc": "CompanyProfilesave",
+      "Website": "Gmail.com",
+      "Type": 1,
+      "EmployeeCount": 7,
+      "Account_type": "buyer",
+      "profileUrl": "url",
+      "Tagline": "tagline",
+      "logo": "logo",
+      "coverpage": "coverpage",
+      "fb": "fb url",
+      "insta": "insta url",
+      "twiter": "url",
+      "linkedln": "linkedin"
+    }
+  ],
+  "companyId": [
+    {
+      "id": 1,
+      "Desc": "Company Profile get",
+      "Website": "Gmail.com",
+      "Type": 1,
+      "EmployeeCount": 3,
+      "Account_type": "buyer",
+      "profileUrl": "url",
+      "Tagline": "tagline",
+      "logo": "logo",
+      "coverpage": "coverpage",
+      "fb": "fb url",
+      "insta": "insta url",
+      "twiter": "url",
+      "linkedln": "linkedin"
+    },
+    {
+      "id": 2,
+      "Desc": "Company Profile get",
+      "Website": "Gmail.com",
+      "Type": 2,
+      "EmployeeCount": 4,
+      "Account_type": "seller",
+      "profileUrl": "url",
+      "Tagline": "tagline",
+      "logo": "logo",
+      "coverpage": "coverpage",
+      "fb": "fb url",
+      "insta": "insta url",
+      "twiter": "url",
+      "linkedln": "linkedin"
+    },
+    {
+      "id": 3,
+      "Desc": "Company Profile get",
+      "Website": "Gmail.com",
+      "Type": 2,
+      "EmployeeCount": 7,
+      "Account_type": "both",
+      "profileUrl": "url",
+      "Tagline": "tagline",
+      "logo": "logo",
+      "coverpage": "coverpage",
+      "fb": "fb url",
+      "insta": "insta url",
+      "twiter": "url",
+      "linkedln": "linkedin"
+    }
+  ]
+}
