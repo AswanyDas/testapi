@@ -1,0 +1,376 @@
+{
+  "ITservices": [
+    {
+      "id": 1,
+      "serviceName": "Softwaredevelopment"
+    },
+    {
+      "id": 2,
+      "serviceName": "Infrastructure"
+    },
+    {
+      "id": 3,
+      "serviceName": "Top-Notch Networking Services"
+    },
+    {
+      "id": 4,
+      "serviceName": "Prominent IT Support Services"
+    },
+    {
+      "id": 5,
+      "serviceName": "The Offering"
+    },
+    {
+      "id": 6,
+      "serviceName": "The Funding Mechanism"
+    },
+    {
+      "id": 7,
+      "serviceName": "The Employee Management System"
+    },
+    {
+      "id": 8,
+      "serviceName": "The Customer Management System"
+    },
+    {
+      "id": 9,
+      "serviceName": "Third-party Integrations and Customizations"
+    },
+    {
+      "id": 10,
+      "serviceName": "Migration & Upgradation"
+    },
+    {
+      "id": 11,
+      "serviceName": "Corporate Website Development"
+    },
+    {
+      "id": 12,
+      "serviceName": "Custom Web Development"
+    },
+    {
+      "id": 13,
+      "serviceName": "Enterprise Web Application Development"
+    },
+    {
+      "id": 14,
+      "serviceName": "Front-end and Back-end Development"
+    },
+    {
+      "id": 15,
+      "serviceName": "E-commerce Development"
+    },
+    {
+      "id": 16,
+      "serviceName": "UXD & Prototyping"
+    },
+    {
+      "id": 17,
+      "serviceName": " File servers"
+    },
+    {
+      "id": 18,
+      "serviceName": " Email"
+    },
+    {
+      "id": 19,
+      "serviceName": " Computer repair"
+    },
+    {
+      "id": 20,
+      "serviceName": " Cloud services"
+    },
+    {
+      "id": 21,
+      "serviceName": " Virtual desktops"
+    },
+    {
+      "id": 22,
+      "serviceName": " Data security"
+    },
+    {
+      "id": 23,
+      "serviceName": " Data backups"
+    },
+    {
+      "id": 24,
+      "serviceName": " Office phones"
+    },
+    {
+      "id": 25,
+      "serviceName": "Network equipment"
+    },
+    {
+      "id": 26,
+      "serviceName": "Web development"
+    },
+    {
+      "id": 27,
+      "serviceName": "Mobile development"
+    },
+    {
+      "id": 28,
+      "serviceName": "Data science"
+    },
+    {
+      "id": 29,
+      "serviceName": "Application development"
+    },
+    {
+      "id": 30,
+      "serviceName": "Embedded systems"
+    },
+    {
+      "id": 31,
+      "serviceName": "IT consulting"
+    },
+    {
+      "id": 32,
+      "serviceName": " IT training"
+    }
+  ],
+  "domains": [
+    {
+      "id": 1,
+      "domainName": "Banking Domain"
+    },
+    {
+      "id": 2,
+      "domainName": "Aerospace Domain"
+    },
+    {
+      "id": 3,
+      "domainName": "Automotive Domain"
+    },
+    {
+      "id": 4,
+      "domainName": "Retail"
+    },
+    {
+      "id": 5,
+      "domainName": "Healthcare"
+    },
+    {
+      "id": 6,
+      "domainName": "Research and development"
+    },
+    {
+      "id": 7,
+      "domainName": "Business/IT services"
+    },
+    {
+      "id": 8,
+      "domainName": "Silicon Valley high-tech"
+    },
+    {
+      "id": 9,
+      "domainName": " Government and defense"
+    },
+    {
+      "id": 10,
+      "domainName": " Chemicals Domain"
+    },
+    {
+      "id": 11,
+      "domainName": " Engineering and Construction Domain"
+    },
+    {
+      "id": 12,
+      "domainName": " Education Domain"
+    },
+    {
+      "id": 13,
+      "domainName": " Finance Domain"
+    },
+    {
+      "id": 14,
+      "domainName": " Hospitality and Leisure Domain"
+    },
+    {
+      "id": 15,
+      "domainName": " Insurance Domain"
+    },
+    {
+      "id": 16,
+      "domainName": " Technology Domain"
+    },
+    {
+      "id": 17,
+      "domainName": " Travel Domain"
+    },
+    {
+      "id": 18,
+      "domainName": " Telecom Domain"
+    },
+    {
+      "id": 19,
+      "domainName": " Energy Domain"
+    },
+    {
+      "id": 20,
+      "domainName": " Consumer / FMCG Domain"
+    },
+    {
+      "id": 21,
+      "domainName": " ERP Domain"
+    },
+    {
+      "id": 22,
+      "domainName": " Ecommerce Domain"
+    },
+    {
+      "id": 23,
+      "domainName": " Logistics"
+    },
+    {
+      "id": 24,
+      "domainName": " Manufacturing"
+    },
+    {
+      "id": 25,
+      "domainName": " Security "
+    },
+    {
+      "id": 26,
+      "domainName": " Media"
+    },
+    {
+      "id": 27,
+      "domainName": "  Advertising"
+    },
+    {
+      "id": 28,
+      "domainName": "  Gaming"
+    },
+    {
+      "id": 29,
+      "domainName": " Entertainment"
+    },
+    {
+      "id": 30,
+      "domainName": "  Agriculture/Agritech"
+    }
+  ],
+  "technologies": [
+    {
+      "id": 1,
+      "technologyName": "cloud computing"
+    },
+    {
+      "id": 2,
+      "technologyName": "IoT"
+    },
+    {
+      "id": 3,
+      "technologyName": ".NET"
+    },
+    {
+      "id": 4,
+      "technologyName": "Java Outsourcing"
+    },
+    {
+      "id": 5,
+      "technologyName": "PHP"
+    },
+    {
+      "id": 6,
+      "technologyName": "Ruby On Rails"
+    },
+    {
+      "id": 7,
+      "technologyName": "Node.js"
+    },
+    {
+      "id": 8,
+      "technologyName": "Apple iOS"
+    },
+    {
+      "id": 9,
+      "technologyName": "Android"
+    },
+    {
+      "id": 10,
+      "technologyName": "Blackberry"
+    },
+    {
+      "id": 11,
+      "technologyName": "Windows Phone"
+    },
+    {
+      "id": 12,
+      "technologyName": "HTML"
+    },
+    {
+      "id": 13,
+      "technologyName": "AJAX"
+    },
+    {
+      "id": 14,
+      "technologyName": "Mobile platforms"
+    },
+    {
+      "id": 15,
+      "technologyName": " Programing Frameworks"
+    },
+    {
+      "id": 16,
+      "technologyName": "  web technologies"
+    },
+    {
+      "id": 17,
+      "technologyName": "  web services"
+    },
+    {
+      "id": 18,
+      "technologyName": "  Artificial Intelligence (AI)"
+    },
+    {
+      "id": 19,
+      "technologyName": " Robotic Process Automation or RPA"
+    },
+    {
+      "id": 20,
+      "technologyName": " Blockchain"
+    },
+    {
+      "id": 21,
+      "technologyName": " C++"
+    },
+    {
+      "id": 22,
+      "technologyName": " Python"
+    },
+    {
+      "id": 23,
+      "technologyName": " CSS"
+    },
+    {
+      "id": 24,
+      "technologyName": " Git"
+    },
+    {
+      "id": 25,
+      "technologyName": "SQL"
+    },
+    {
+      "id": 26,
+      "technologyName": "JavaScript"
+    },
+    {
+      "id": 27,
+      "technologyName": "C"
+    },
+    {
+      "id": 28,
+      "technologyName": "Svelte"
+    },
+    {
+      "id": 29,
+      "technologyName": "Jest"
+    },
+    {
+      "id": 30,
+      "technologyName": "Kotlin"
+    }
+  ]
+}
